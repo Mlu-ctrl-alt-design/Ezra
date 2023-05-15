@@ -10,4 +10,9 @@
 }
 .content h1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+}
+.content h4 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
 }
